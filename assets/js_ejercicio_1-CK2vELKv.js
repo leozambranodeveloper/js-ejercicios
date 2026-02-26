@@ -1,0 +1,1 @@
+import"./main-BxrhsjNY.js";let a=document.getElementById("btnColor");a.addEventListener("click",()=>{const o=Math.floor(Math.random()*256),t=Math.floor(Math.random()*256),n=Math.floor(Math.random()*256),r=`rgb(${o}, ${t}, ${n})`;document.body.style.backgroundColor=r});

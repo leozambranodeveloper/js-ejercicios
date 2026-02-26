@@ -1,0 +1,1 @@
+import"./main-BxrhsjNY.js";const e=document.getElementById("busqueda"),o=document.querySelectorAll("#lista li");e.addEventListener("input",()=>{const n=e.value.toLowerCase();o.forEach(t=>{t.style.display=t.textContent.toLowerCase().includes(n)?"list-item":"none"})});
