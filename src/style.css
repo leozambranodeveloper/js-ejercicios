@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(237, 234, 168);
+
+}
+
+a{
+    text-decoration: none;
+}
+h1{
+    text-align: center;
+}
+ul{
+    text-align: center;
+    list-style: none;
+}
+li{
+    padding: 4px;
+}
+#btnColor, #btnContar{
+   padding: 10px;
+}
+#btnColorDiv, #btnContarDiv, #textoDiv, #listaDiv, #numDiv, #bntCalc, 
+#resultado, #tempoDiv, #generarContraDiv, #contarPalabrasDiv {
+    display: block;
+    margin-top: 25px;
+    text-align: center;
+}
+
